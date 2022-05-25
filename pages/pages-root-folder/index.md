@@ -39,16 +39,21 @@ homepage: true
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}der-farbige-junge-und-der-farblose-konig-thumb.jpg" alt="">
-        <p><a href="/2022/nocturno">Der farbige Junge und der farblose König</a>, Sachin Allums</p>
+        <p><a href="/2022/der-farbige-junge-und-der-farblose-konig">Der farbige Junge und der farblose König</a>, Sachin Allums</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}copper_hands_thumb.jpg" alt="">
-        <p><a href="/2022/copper-hands">Copper Hands</a>, anonymous</p>
+        <img src="{{ site.urlimg }}longing_thumb.jpg" alt="">
+        <p><a href="/2022/longing">Longing</a>, Regina Kong</p>
+    </div><!-- /.medium-4.columns -->
+	
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}captain_america_thumb.jpg alt="">
+        <p><a href="/2022/captain-america-my-end-game">Longing</a>, Emily Blackwell</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}love-and-passion-thumb.jpg" alt="">
-        <p><a href="/2022/love-and-passion">Love and Passion</a>, Vivian Auduong</p>
+        <img src="{{ site.urlimg }}autoretrato_thumb.jpg" alt="">
+        <p><a href="/2022/autoretrato-en-flujo">Autoretrato en flujo</a>, Alessandra Diaz</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
