@@ -6,8 +6,7 @@
 #
 layout: page-fullwidth
 title: "Ingenio"
-title: "Ingenio"
-subheadline: "A Creative Student Showcase"
+subheadline: "Sensing Life, Reimagining Language"
 header:
   image_fullwidth: ingenio_header.jpg
 permalink: /index.html
@@ -18,19 +17,20 @@ permalink: /index.html
 homepage: true
 ---
 
+## Reflecting 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}autoretrato_thumb.jpg" alt="">
-        <p>Autoretrato</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}longing_thumb.jpg" alt="">
-        <p>Longing</p>
+        <img src="{{ site.urlimg }}nocturno_thumb.jpg" alt="">
+        <p><a href="/2022/nocturno">Nocturno</a>, Valerie Trapp</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}copper_hands_thumb.jpg" alt="">
-        <p>Copper Hands</p>
+        <p><a href="/2022/copper-hands">Copper Hands</a>, anonymous</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}love-and-passion-thumb.jpg" alt="">
+        <p><a href="/2022/love-and-passion">Love and Passion</a>, Vivian Auduong</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
