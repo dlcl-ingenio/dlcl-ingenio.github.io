@@ -1,0 +1,35 @@
+<aside>
+	<div class="panel radius">
+
+	    <img class="b30" src="{{ site.urlimg }}{{ page.image.thumb }}" alt="{{page.image.title}}" />
+
+		
+		<h3>{{page.title}}</h3>
+		
+		{% if page.authorname %}
+		
+		<p><strong>Author:</strong> {{ page.authorname }}</p>
+	
+		{% endif %}
+		
+		{% if page.class %}
+		
+		<p><strong>Made for:</strong> {{ page.class }}</p>
+	
+		{% endif %}
+		
+		{% if page.nominated-by %}
+		
+		<p><strong>Nominated by:</strong> {{ page.nominated-by }}</p>
+	
+		{% endif %}
+		
+		{% if page.teaser %}
+		
+		<p><em>{{ page.teaser }}</em></p>
+	
+		{% endif %}
+		
+	</div>
+
+</aside>

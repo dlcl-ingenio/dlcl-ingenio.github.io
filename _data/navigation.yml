@@ -1,0 +1,57 @@
+- title: Home
+  url: "/"
+  side: left
+- title: Reflecting
+  url: "/reflecting"
+  side: left
+  dropdown:
+  - title: "Noncturno"
+    url: "/2022/nocturno"
+  - title: "Copper Hands"
+    url: "/2022/copper-hands"
+  - title: "Love and Passion"
+    url: "/2022/love-and-passion"
+- title: Longing
+  url: "/longing"
+  side: left
+  dropdown:
+  - title: "Der farbige Junge und der farblose König"
+    url: "/2022/der-farbige-junge-und-der-farblose-konig"
+  - title: "Longing"
+    url: "/2022/longing"
+  - title: "Captain America: My End Game"
+    url: "/2022/captain-america-my-end-game"  
+  - title: "Autoretrato en flujo"
+    url: "/2022/autoretrato-en-flujo"
+- title: Mourning
+  url: "/mourning"
+  side: left
+  dropdown:
+  - title: "Violencia en Colombia"
+    url: "/2022/violencia-en-colombia"
+  - title: "Carta a mi perro"
+    url: "/2022/carta-a-mi-perro"
+- title: Loving
+  url: "/loving"
+  side: left
+  dropdown:
+  - title: "No soy tu musa"
+    url: "/2022/no-soy-tu-musa"
+  - title: "Endless repetition"
+    url: "/2022/endless-repetition"
+- title: Reimagining
+  url: "/reimagining"
+  side: left
+  dropdown:
+  - title: "The Forest"
+    url: "/2022/forest"
+  - title: "Mola"
+    url: "/2022/mola"
+  - title: "A Conversation Between Insomniacs"
+    url: "/2022/conversation-insomniacs"  
+  - title: "Psalm"
+    url: "/2022/psalm"
+- title: About
+  url: "/about"
+- title: "Search"
+  url: "/search/"
