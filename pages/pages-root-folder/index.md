@@ -34,3 +34,21 @@ homepage: true
         <p><a href="/2022/love-and-passion">Love and Passion</a>, Vivian Auduong</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
+
+## Longing
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}der-farbige-junge-und-der-farblose-konig-thumb.jpg" alt="">
+        <p><a href="/2022/nocturno">Der farbige Junge und der farblose König</a>, Sachin Allums</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}copper_hands_thumb.jpg" alt="">
+        <p><a href="/2022/copper-hands">Copper Hands</a>, anonymous</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}love-and-passion-thumb.jpg" alt="">
+        <p><a href="/2022/love-and-passion">Love and Passion</a>, Vivian Auduong</p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
