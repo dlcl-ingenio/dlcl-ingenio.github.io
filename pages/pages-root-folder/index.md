@@ -57,3 +57,58 @@ homepage: true
         <p><a href="/2022/autoretrato-en-flujo">Autoretrato en flujo</a>, Alessandra Diaz</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
+
+## Mourning
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}violenciacolombia_thumb.jpg" alt="">
+        <p><a href="2022/violencia-en-colombia">Violencia en Colombia</a>, Lucas Pauker</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}una-carta-a-mi-perro-thumb.jpg" alt="">
+        <p><a href="2022/una-carta-a-mi-perro">Una carta a mi perro</a>, Mary Mitchell</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}migration-21st-century-thumb.jpg" alt="">
+        <p><a href="/2022/migration-21st-century">Migration in the 21st Century</a>, Krystal Ramirez</p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+## Loving
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}musa_thumb.jpg" alt="">
+        <p><a href="2022/no-soy-tu-musa">No soy tu musa</a>, Darrow Hornick</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}endless_repetition_thumb.jpg" alt="">
+        <p><a href="2022/endless-repetition">Endless Repetition</a>, Dea Dressel & Daniel Blackburn</p>
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+## Reimagining
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}forest-thumb.jpg" alt="">
+        <p><a href="/2022/the-forest">The Forest</a>, Chloé Romero</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}molas_thumb.jpg" alt="">
+        <p><a href="/2022/molas">Molas</a>, Darrow Hornick</p>
+    </div><!-- /.medium-4.columns -->
+	
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}conversation_insomniacs_thumb.jpg" alt="">
+        <p><a href="/2022/conversation-between-insomniacs">A Conversation between Insomniacs</a>, Jiayi Luo</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}psalm_thumb.jpg" alt="">
+        <p><a href="/2022/psalm">Psalm</a>, Regina Kong & Dongming Zhang</p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
