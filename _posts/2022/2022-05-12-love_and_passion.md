@@ -15,7 +15,7 @@ categories:
 image:
     thumb: 'love-and-passion-thumb.jpg'
     title: 'Image of the translator'
-	full: 'love-and-passion.png'
+    full: love-and-passion.png
 ---
 
 For decades, this bittersweet song has reminded people of beloved friends and family who are far away. I wanted to write an adaptation of this song that feels just as natural and expresses the same ideas as the Cantonese original, incorporating rhyming, metaphors, turns of phrases, and imagery related to natural phenomena. I hope you enjoy my adaptation! 

@@ -15,8 +15,9 @@ categories:
 image:
     thumb: 'captain_america_thumb.jpg'
     title: 'CAPTAIN AMERICA by Choi sanghun'
-	url: 'https://wordpress.org/openverse/image/1f259bd9-f9fd-4c35-be46-e7ba12aa9c85'
+    url: https://wordpress.org/openverse/image/1f259bd9-f9fd-4c35-be46-e7ba12aa9c85
 ---
+
 <h3>April 26th, 2019</h3>
 <p><strong>This is Captain America reporting my first log before traveling back in time to capture the infinity stone. Last system check is complete, and we are a “go” for time travel. I will check back in on the mission and log all of my events to ensure that the flow of time is not interrupted.</strong></p>
 <p>I looked down at my watch one last time to make sure it was secure. I know the mission, I’ve
