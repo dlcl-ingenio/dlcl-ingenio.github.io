@@ -2,6 +2,8 @@
 layout: page
 permalink: 2022/musa
 sidebar: left
+header:
+  image_fullwidth: ingenio_header.jpg
 title:  "Norah Lange y Jorge Luis Borges en conversación: No soy tu musa"
 teaser: "In this written piece, Norah Lange is in conversation with Jorge Luis Borges. Through dialogue between these two writers, I explored Lange’s relationship with Borges and his fame. Norah reminds Borges and the readers that she is more than just Borges’ muse — she is an accomplished and powerful writer that does not need a man’s approval. Norah Lange reminds Jorge Luis Borges that she is nobody's muse. "
 show-meta: true

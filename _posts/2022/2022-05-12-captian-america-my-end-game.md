@@ -2,6 +2,8 @@
 layout: page
 permalink: 2022/captain-america-my-end-game
 sidebar: left
+header:
+  image_fullwidth: ingenio_header.jpg
 title:  "Captain America: My End Game"
 teaser: 'In this self portrait of Captain America, I wanted to portray his stoic nature while
 humanizing him, focusing on Steve Rogers rather than Captain America.'

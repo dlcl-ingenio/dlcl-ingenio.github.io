@@ -2,6 +2,8 @@
 layout: page
 permalink: 2022/love-and-passion
 sidebar: left
+header:
+  image_fullwidth: ingenio_header.jpg
 title:  "萬水千山總是情"
 teaser: | 
   Inspired by DLCL50B's workshop on translation praxis, I translated a beloved song from Hong Kong that I grew up listening to. Released in 1982 and performed by 汪明荃, 萬水千山總是情 translates literally to "Love through tens of thousands of rivers and thousands of mountains". Drawing on elements of classical Chinese poetry, the song paints love as a natural phenomenon, both evolving and persisting through space and time like any river or mountain. 

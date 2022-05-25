@@ -2,6 +2,8 @@
 layout: page
 permalink: 2022/copper-hands
 sidebar: left
+header:
+  image_fullwidth: ingenio_header.jpg
 title:  "Copper Hands"
 teaser: 'Some memories from well within.'
 show-meta: true
