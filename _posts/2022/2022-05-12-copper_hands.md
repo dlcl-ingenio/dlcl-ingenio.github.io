@@ -7,6 +7,8 @@ teaser: 'Some memories from well within.'
 show-meta: true
 authorname: Anonymous
 breadcrumb: true
+header:
+  image_fullwidth: ingenio_header.jpg
 categories:
     - 2022
     - Reflecting
