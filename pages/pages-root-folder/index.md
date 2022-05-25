@@ -48,7 +48,7 @@ homepage: true
     </div><!-- /.medium-4.columns -->
 	
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}captain_america_thumb.jpg alt="">
+        <img src="{{ site.urlimg }}captain_america_thumb.jpg" alt="">
         <p><a href="/2022/captain-america-my-end-game">Longing</a>, Emily Blackwell</p>
     </div><!-- /.medium-4.columns -->
 
