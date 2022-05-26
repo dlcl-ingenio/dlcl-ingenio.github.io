@@ -11,9 +11,7 @@ authorname: 'Dea Dressel & Daniel Blackburn'
 class: 'ILAC 161: Modern Latin American Literature'
 nominated-by: 'Cristian Felipe Soler'
 breadcrumb: true
-video:
-   thumbnailURL: 'endless-repetition-thumb.jpg'
-   contentURL: 'endless_repetition.mp4'
+video: 'endless_repetition.mp4'
 categories:
     - 2022
     - Loving
