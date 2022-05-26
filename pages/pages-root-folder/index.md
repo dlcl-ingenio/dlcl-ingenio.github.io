@@ -69,7 +69,7 @@ homepage: true
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}una-carta-a-mi-perro-thumb.jpg" alt="">
+        <img src="{{ site.urlimg }}unacarta_thumb.jpg" alt="">
         <p><a href="2022/una-carta-a-mi-perro">Una carta a mi perro</a>, Mary Mitchell</p>
     </div><!-- /.medium-4.columns -->
 
