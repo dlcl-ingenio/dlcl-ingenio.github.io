@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: 2022/conversation-between-insomniacs
+permalink: "/2022/conversation-between-insomniacs"
 sidebar: left
 header:
   image_fullwidth: ingenio_header.jpg

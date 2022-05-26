@@ -106,7 +106,7 @@ homepage: true
     </div><!-- /.medium-4.columns -->
 	
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}conversation_insomniacs_thumb.jpg" alt="">
+        <img src="{{ site.urlimg }}insomniacs_thumb.jpg" alt="">
         <p><a href="/2022/conversation-between-insomniacs">A Conversation between Insomniacs</a>, Jiayi Luo</p>
     </div><!-- /.medium-4.columns -->
 
