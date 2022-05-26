@@ -36,6 +36,7 @@ format: post
 			{% if page.video %}
 			
 			{% if page.video.contentURL %}
+			<p>{{ site.urlvideo }}/{{ page.video.contentURL }}</p>
 			
 			<video width="640" height="640" controls>
 			  <source src="{{ site.urlvideo }}/{{ page.video.contentURL }}" type="video/mp4">
