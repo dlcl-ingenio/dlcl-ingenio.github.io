@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: 2022/musa
+permalink: 2022/no-soy-tu-musa
 sidebar: left
 header:
   image_fullwidth: ingenio_header.jpg
