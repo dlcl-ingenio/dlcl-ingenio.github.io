@@ -102,7 +102,7 @@ homepage: true
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}molas_thumb.jpg" alt="" />
-        <p><a href="/2022/mola">Molas</a>, Darrow Hornick</p>
+        <p><a href="/2022/mola">Mola</a>, Darrow Hornick</p>
     </div><!-- /.medium-4.columns -->
 	
     <div class="medium-4 columns">
