@@ -61,5 +61,7 @@ With resolution <br />
 Tried to shepherd out of incompetence <br />
 Sometimes with an electric prod <br />
 I could still see  <br />
-The hands, the thighs, the breasts, the belly, Even the graying groin, Always the same. <br />
+The hands, the thighs, the breasts, the <br />
+belly, Even the graying groin, Always the <br />
+same. <br />
 Always here.
