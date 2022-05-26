@@ -87,7 +87,7 @@ homepage: true
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}endless_repetition_thumb.jpg" alt="">
+        <img src="{{ site.urlimg }}endless-repetition-thumb.jpg" alt="">
         <p><a href="2022/endless-repetition">Endless Repetition</a>, Dea Dressel & Daniel Blackburn</p>
     </div><!-- /.medium-4.columns -->
 
