@@ -30,7 +30,7 @@
   - title: "Violencia en Colombia"
     url: "/2022/violencia-en-colombia"
   - title: "Carta a mi perro"
-    url: "/2022/carta-a-mi-perro"
+    url: "/2022/una-carta-a-mi-perro"
 - title: Loving
   url: "/loving"
   side: left
@@ -44,11 +44,11 @@
   side: left
   dropdown:
   - title: "The Forest"
-    url: "/2022/forest"
+    url: "/2022/the-forest"
   - title: "Mola"
     url: "/2022/mola"
   - title: "A Conversation Between Insomniacs"
-    url: "/2022/conversation-insomniacs"  
+    url: "/2022/conversation-between-insomniacs"  
   - title: "Psalm"
     url: "/2022/psalm"
 - title: About

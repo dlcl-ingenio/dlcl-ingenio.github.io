@@ -11,7 +11,6 @@ header:
 permalink: /reimagining
 ---
 
-## Reimagining
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}forest-thumb.jpg" alt="" />

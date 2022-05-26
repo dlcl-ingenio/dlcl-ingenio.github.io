@@ -11,7 +11,6 @@ header:
 permalink: /longing
 ---
 
-## Longing
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}der-farbige-junge-und-der-farblose-konig-thumb.jpg" alt="">

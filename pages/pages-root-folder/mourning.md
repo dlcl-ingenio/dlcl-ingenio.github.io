@@ -11,7 +11,6 @@ header:
 permalink: /mourning
 ---
 
-## Mourning
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}violenciaencolombia_thumb.jpg" alt="">

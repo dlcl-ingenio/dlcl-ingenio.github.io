@@ -11,7 +11,6 @@ header:
 permalink: /loving
 ---
 
-## Loving
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}musa_thumb.jpg" alt="">
