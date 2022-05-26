@@ -35,10 +35,9 @@ format: post
 			
 			
 			{% if page.video %}
-			<p>{{ site.urlvideo }}/{{ page.video }}</p>
 			
 			<video width="640" height="640" controls>
-			  <source src="{{ site.urlvideo }}/{{ page.video }}" type="video/mp4">
+			  <source src="{{ site.urlvideo }}{{ page.video }}" type="video/mp4">
 			Your browser does not support the video tag.
 			</video>
 			
