@@ -5,7 +5,7 @@ sidebar: left
 header:
   image_fullwidth: ingenio_header.jpg
 title:  "Migration in the 21st Century"
-teaser: 'This comic is a letter to my dog Tessie, who was very old and sick when I was making this piece in the Spring of 2021 and who has since passed away. I spent many months grieving her while she was still alive and many months after her death struggling to process her loss in a world stricken with death from COVID-19. This comic is everything I wanted to tell her during that time – my worries, regrets, and of course my love for her.'
+teaser: "My work is interdisciplinary and is centered around the discernment of class, labor, and consumption of the brown body. I'm a second-generation immigrant from the working-class landscape of Las Vegas, Nevada. My work's visual language and written text reflect the existential and often hallucinatory existence of immigrants with limited familial histories."
 show-meta: true
 authorname: Krystal Ramirez
 class: 'ILAC 128: Spanish Literature and Language through Comics'
