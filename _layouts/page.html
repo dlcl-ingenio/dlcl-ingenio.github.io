@@ -22,12 +22,14 @@ format: post
 			{% endif %}
 			
 			{% if page.audio %}
-		    <audio
-		        controls
-		        src="{{ site.urlaudio }}/{{page.audio}}?autoplay=0&loop=0&controls=1">
-		            Your browser does not support the
-		            <code>audio</code> element.
-		    </audio>
+			
+			<audio controls>
+			  <source src="{{ site.urlaudio }}{{page.audio}}" type="audio/mpeg">
+			Your browser does not support the audio element.
+			</audio>
+			
+			
+		  
 			{% endif %}
 			
 			{% if page.video %}
