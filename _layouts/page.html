@@ -34,9 +34,15 @@ format: post
 			{% endif %}
 			
 			{% if page.video %}
-			{% if page.video.thumbnailURL %}<meta itemprop="thumbnailUrl" content="{{ page.video.thumbnailUrl }}" />{% endif %}
-			{% if page.video.contentURL %}<meta itemprop="contentURL" content="{{ site.urlvideo }}/{{ page.video.contentURL }}" />{% endif %}
-			{% if page.video.embedURL %}<meta itemprop="embedURL" content="{{ page.video.embedURL }}" />{% endif %}
+			
+			{% if page.video.contentURL %}
+			
+			<video width="640" height="640" controls>
+			  <source src="{{ site.urlvideo }}/{{ page.video.contentURL }}" type="video/mp4">
+			Your browser does not support the video tag.
+			</video>
+			
+		
 			{% endif %}
 			
 			
