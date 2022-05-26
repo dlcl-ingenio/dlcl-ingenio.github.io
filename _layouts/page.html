@@ -21,6 +21,10 @@ format: post
 			<object data="{{ site.urlpdf }}/{{page.pdf}}" width="800" height="1100" type="application/pdf"></object>
 			{% endif %}
 			
+			{% if page.audio %}
+			<a href="{{ site.urlaudio }}/{{page.audio}}?autoplay=0&loop=0&controls=1" />
+			{% endif %}
+			
 			
 			
 			{% if page.image.full %}
@@ -61,3 +65,5 @@ format: post
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 </div><!-- /.row -->
+
+{% include open-embed.html %}
