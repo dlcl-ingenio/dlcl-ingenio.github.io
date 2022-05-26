@@ -16,6 +16,6 @@ categories:
     - Mourning
 pdf: violencia-en-colombia.pdf
 image:
-    thumb: 'violenciacolombia_thumb.jpg'
+    thumb: 'violenciaencolombia_thumb.jpg'
     title: Violencia in Colombia
 ---
