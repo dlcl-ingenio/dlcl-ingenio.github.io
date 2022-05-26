@@ -52,11 +52,14 @@ homepage: true
         <p><a href="/2022/captain-america-my-end-game">Longing</a>, Emily Blackwell</p>
     </div><!-- /.medium-4.columns -->
 
+
+</div><!-- /.row -->
+<div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}autoretrato_thumb.jpg" alt="">
         <p><a href="/2022/autoretrato-en-flujo">Autoretrato en flujo</a>, Alessandra Diaz</p>
     </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
+	</div>
 
 ## Mourning
 <div class="row t30">
