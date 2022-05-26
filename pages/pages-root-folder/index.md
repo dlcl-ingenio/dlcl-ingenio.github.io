@@ -49,7 +49,7 @@ homepage: true
 	
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}captain_america_thumb.jpg" alt="">
-        <p><a href="/2022/captain-america-my-end-game">Longing</a>, Emily Blackwell</p>
+        <p><a href="/2022/captain-america-my-end-game">Captain America: My End Game</a>, Emily Blackwell</p>
     </div><!-- /.medium-4.columns -->
 
 
