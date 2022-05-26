@@ -64,7 +64,7 @@ homepage: true
 ## Mourning
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}violenciacolombia_thumb.jpg" alt="">
+        <img src="{{ site.urlimg }}violenciaencolombia_thumb.jpg" alt="">
         <p><a href="2022/violencia-en-colombia">Violencia en Colombia</a>, Lucas Pauker</p>
     </div><!-- /.medium-4.columns -->
 

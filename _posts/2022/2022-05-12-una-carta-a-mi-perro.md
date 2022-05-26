@@ -14,8 +14,7 @@ breadcrumb: true
 categories:
     - 2022
     - Mourning
+pdf: 'una-carta-a-mi-perro.pdf'
 image:
     thumb: 'unacarta_thumb.jpg'
-    full: 'unacarta.jpg'
-    title: Una carta a mi perro
 ---
