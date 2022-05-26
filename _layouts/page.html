@@ -33,7 +33,6 @@ format: post
 			{{ page.iframe}}
 			{% endif %}
 			
-			{% if page.video %}
 			
 			{% if page.video.contentURL %}
 			<p>{{ site.urlvideo }}/{{ page.video.contentURL }}</p>
@@ -45,7 +44,7 @@ format: post
 			
 		
 			{% endif %}
-			
+
 			
 			{% if page.image.full %}
 			<img src="{{ site.urlimg }}{{ page.image.full }}" alt="{{page.image.title}}" />
