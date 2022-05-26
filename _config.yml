@@ -41,6 +41,7 @@ improve_content: https://github.com/stanford-dlcl/ingenio/edit/gh-pages
 urlimg: 'https://ingenio.stanford.edu/images/'
 urlpdf: 'https://ingenio.stanford.edu/pdf/'
 urlaudio: 'https://ingenio.stanford.edu/audio/'
+urlvideo: 'https://ingenio.stanford.edu/video/'
 
 # Logo size is 600x80 pixels
 logo: "ingenio_logo.png"

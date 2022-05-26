@@ -25,6 +25,11 @@ format: post
 			<a href="{{ site.urlaudio }}/{{page.audio}}?autoplay=0&loop=0&controls=1" />
 			{% endif %}
 			
+			{% if page.video %}
+			{% if page.video.thumbnailURL %}<meta itemprop="thumbnailUrl" content="{{ page.video.thumbnailUrl }}" />{% endif %}
+			{% if page.video.contentURL %}<meta itemprop="contentURL" content="{{ site.urlvideo }}/{{ page.video.contentURL }}" />{% endif %}
+			{% if page.video.embedURL %}<meta itemprop="embedURL" content="{{ page.video.embedURL }}" />{% endif %}
+			{% endif %}
 			
 			
 			{% if page.image.full %}
