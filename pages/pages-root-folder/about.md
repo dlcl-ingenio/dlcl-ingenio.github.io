@@ -17,3 +17,7 @@ The 2022 INGENIO Showcase was organized by:
 -  Theresa Nelson, ILAC Major ‘22
 - Alyssa Diaz, FRIT Major, ‘22
 - Maya Návar, COMPLIT Major, Spanish Minor ‘22.
+
+### Technical notes
+
+INGENIO was built by DLCL Academic Technology Specialist Quinn Dombrowski using Jekyll and the [Feeling Responsive theme](https://github.com/Phlow/feeling-responsive) by Phlow. Shout-out to Alex Gil for the Jekyll debugging help.
