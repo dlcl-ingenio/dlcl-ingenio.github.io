@@ -8,7 +8,7 @@ layout: page-fullwidth
 title: "Ingenio"
 subheadline: "Sensing Life, Reimagining Language"
 header:
-  image_fullwidth: ingenio_header.jpg
+  image_fullwidth: ingenio_header2.jpg
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -17,104 +17,157 @@ permalink: /index.html
 homepage: true
 ---
 
-## Reflecting 
+## Imagining
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}nocturno_thumb.jpg" alt="">
-        <p><a href="/2022/nocturno">Nocturno</a>, Valerie Trapp</p>
+        <img src="{{ site.urlimg }}childrens-tales_thumb2.jpg" alt="">
+        <p><a href="/2023/childrens-tales">Children's Tales</a>, Rhiannon O'Keefe</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}copper_hands_thumb.jpg" alt="">
-        <p><a href="/2022/copper-hands">Copper Hands</a>, anonymous</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}love-and-passion-thumb.jpg" alt="">
-        <p><a href="/2022/love-and-passion">Love and Passion</a>, Vivian Auduong</p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
-## Longing
-<div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}der-farbige-junge-und-der-farblose-konig-thumb.jpg" alt="">
-        <p><a href="/2022/der-farbige-junge-und-der-farblose-konig">Der farbige Junge und der farblose König</a>, Sachin Allums</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}longing_thumb.jpg" alt="">
-        <p><a href="/2022/longing">Longing</a>, Regina Kong</p>
+        <img src="{{ site.urlimg }}paseos-por-mi-mente_thumb2.png" alt="">
+        <p><a href="/2023/paseos-por-mi-mente">Paseos por mi mente</a>, Helena Getahun-Hawkins</p>
     </div><!-- /.medium-4.columns -->
 	
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}captain_america_thumb.jpg" alt="">
-        <p><a href="/2022/captain-america-my-end-game">Captain America: My End Game</a>, Emily Blackwell</p>
+        <img src="{{ site.urlimg }}nuevos-puntos_thumb2.png" alt="">
+        <p><a href="/2023/nuevos-puntos-de-articulacion">Nuevos puntos de articulación</a>, David Lemus</p>
     </div><!-- /.medium-4.columns -->
 
+</div>
 
-</div><!-- /.row -->
+## Debating
+
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}autoretrato_thumb.jpg" alt="">
-        <p><a href="/2022/autoretrato-en-flujo">Autoretrato en flujo</a>, Alessandra Diaz</p>
-    </div><!-- /.medium-4.columns -->
-	</div>
-
-## Mourning
-<div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}violenciaencolombia_thumb.jpg" alt="">
-        <p><a href="2022/violencia-en-colombia">Violencia en Colombia</a>, Lucas Pauker</p>
+        <img src="{{ site.urlimg }}la-uni_thumb2.png" alt="">
+        <p><a href="/2023/la-uni">La Uni</a>, Eric Benitez</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}unacarta_thumb.jpg" alt="">
-        <p><a href="2022/una-carta-a-mi-perro">Una carta a mi perro</a>, Mary Mitchell</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}migration-21st-century-thumb.jpg" alt="">
-        <p><a href="/2022/migration-21st-century">Migration in the 21st Century</a>, Krystal Ramirez</p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
-## Loving
-<div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}musa_thumb.jpg" alt="">
-        <p><a href="2022/no-soy-tu-musa">No soy tu musa</a>, Darrow Hornick</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}endless-repetition-thumb.jpg" alt="">
-        <p><a href="2022/endless-repetition">Endless Repetition</a>, Dea Dressel & Daniel Blackburn</p>
-    </div><!-- /.medium-4.columns -->
-
-</div><!-- /.row -->
-
-## Reimagining
-<div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}forest-thumb.jpg" alt="" />
-        <p><a href="/2022/the-forest">The Forest</a>, Chloé Romero</p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}molas_thumb.jpg" alt="" />
-        <p><a href="/2022/mola">Mola</a>, Darrow Hornick</p>
+        <img src="{{ site.urlimg }}forbidden-fruit_thumb2.png" alt="">
+        <p><a href="/2023/forbidden-fruit">Forbidden Fruit</a>, Rachel Avina</p>
     </div><!-- /.medium-4.columns -->
 	
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}insomniacs_thumb.jpg" alt="" />
-        <p><a href="/2022/conversation-between-insomniacs">A Conversation between Insomniacs</a>, Jiayi Luo</p>
+        <img src="{{ site.urlimg }}pastor_thumb2.png" alt="">
+        <p><a href="/2023/pastor">Pastor</a>, Eugene Ko</p>
     </div><!-- /.medium-4.columns -->
+</div>
 
-</div><!-- /.row -->
+## Growing
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}psalm_thumb.jpg" alt="" />
-        <p><a href="/2022/psalm">Psalm</a>, Regina Kong & Dongming Zhang</p>
+        <img src="{{ site.urlimg }}el-fantasma-de-brad_thumb2.png" alt="">
+        <p><a href="/2023/el-fantsama-de-brad">El fantasma de Brad</a>, Angel Elyse Cleare</p>
     </div><!-- /.medium-4.columns -->
-	</div>
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}visions_thumb2.jpg" alt="">
+        <p><a href="/2023/visions">Visions</a>, Devon Smith, Jack Volpert, Cooper Smith, Esidore Eneinyang</p>
+    </div><!-- /.medium-4.columns -->
+	
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}katia-la-corajuda_thumb2.png" alt="">
+        <p><a href="/2023/katia-la-corajuda">Katia la corajuda</a>, Kezia Lopez</p>
+    </div><!-- /.medium-4.columns -->
+	
+</div>	
+
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}its-for-your-own-good_thumb2.jpg" alt="">
+        <p><a href="/2023/its-for-your-own-good">It's for your own good'</a>, Anonymous</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}nonny-and-vera_thumb2.jpg" alt="">
+        <p><a href="/2023/nonny-and-vera">Nonny and Vera</a>, Susanna Newsom, James Fox, Grace Flynn</p>
+    </div><!-- /.medium-4.columns -->
+
+	
+</div>	
+
+
+## Reconnecting
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}an-evening-walk-along-khaju-bridge-in-isfahan_thumb2.jpg" alt="">
+        <p><a href="/2023/an-evening-walk-along-khaju-bridge-in-isfahan/">An evening walk along Khaju Bridge in Isfahan</a>, Roya Ahmadi</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}two-collages_thumb2.jpg" alt="">
+        <p><a href="/2023/two-collages">Two Collages</a>, Michelle Cai</p>
+    </div><!-- /.medium-4.columns -->
+	
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}four-poems_thumb2.jpg" alt="">
+        <p><a href="/2023/four-poems">Four Poems</a>, Paola Ruiz</p>
+    </div><!-- /.medium-4.columns -->
+	
+</div>	
+
+
+## Honoring
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}si-se-puede_thumb2.png" alt="">
+        <p><a href="/2023/si-se-puede/">Sí se puede</a>, Jessica Pacheco</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}three-poems_thumb2.jpg" alt="">
+        <p><a href="/2023/three-poems">Three Poems</a>, Kara Aguilar</p>
+    </div><!-- /.medium-4.columns -->
+	
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}a-los-cuys_thumb2.jpg" alt="">
+        <p><a href="/2023/a-los-cuys">A los cuys</a>, Isa Calero Forero</p>
+    </div><!-- /.medium-4.columns -->
+	
+</div>	
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}un-camaleon-en-el-panteon2.jpg" alt="">
+        <p><a href="/2023/un-camaleon-en-el-panteon/">Un camaleón en el panteón</a>, Julia Canez</p>
+    </div><!-- /.medium-4.columns -->
+
+	
+</div>	
+
+
+## Persevering
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}cruces-de-arcoiris_thumb2.jpg" alt="">
+        <p><a href="/2023/cruces-de-arcoiris/">Cruces de arcoíris</a>, Ronak Shetty</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}the-intern_thumb2.jpg" alt="">
+        <p><a href="/2023/the-intern">The Intern</a>, Gabriela Cortes</p>
+    </div><!-- /.medium-4.columns -->
+	
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}triolet-to-mother-earth_thumb2.jpg" alt="">
+        <p><a href="/2023/triolet-to-mother-earth">Triolet to Mother [Earth]</a>, Divya Mehrish</p>
+    </div><!-- /.medium-4.columns -->
+	
+</div>	
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}the-poet-tells-the-truth_thumb2.jpg" alt="">
+        <p><a href="/2023/the-poet-tells-the-truth/">The Poet Tells the Truth</a>, Callum Tresnan</p>
+    </div><!-- /.medium-4.columns -->
+
+	
+</div>	

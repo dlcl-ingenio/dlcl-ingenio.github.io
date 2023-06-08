@@ -1,56 +1,74 @@
 - title: Home
   url: "/"
   side: left
-- title: Reflecting
-  url: "/reflecting"
+- title: "Imagining"
+  url: "/imagining"
   side: left
   dropdown:
-  - title: "Noncturno"
-    url: "/2022/nocturno"
-  - title: "Copper Hands"
-    url: "/2022/copper-hands"
-  - title: "Love and Passion"
-    url: "/2022/love-and-passion"
-- title: Longing
-  url: "/longing"
+  - title: "Children's Tales"
+    url: "/2023/2023/childrens-tales"
+  - title: "Paseos por mi mente"
+    url: "/2023/paseos-por-mi-mente"
+  - title: "Nuevos puntos de articulación"
+    url: "/2023/nuevos-puntos-de-articulacion"
+- title: Debating
+  url: "/debating"
   side: left
   dropdown:
-  - title: "Der farbige Junge und der farblose König"
-    url: "/2022/der-farbige-junge-und-der-farblose-konig"
-  - title: "Longing"
-    url: "/2022/longing"
-  - title: "Captain America: My End Game"
-    url: "/2022/captain-america-my-end-game"  
-  - title: "Autoretrato en flujo"
-    url: "/2022/autoretrato-en-flujo"
-- title: Mourning
-  url: "/mourning"
+  - title: "La uni"
+    url: "/2023/la-uni"
+  - title: "Forbidden Fruit"
+    url: "/2023/forbidden-fruit"
+  - title: "Pastor"
+    url: "/2023/pastor"
+- title: Growing
+  url: "/growing"
   side: left
   dropdown:
-  - title: "Violencia en Colombia"
-    url: "/2022/violencia-en-colombia"
-  - title: "Carta a mi perro"
-    url: "/2022/una-carta-a-mi-perro"
-- title: Loving
-  url: "/loving"
+  - title: "El fantasma de Brad"
+    url: "/2023/el-fantasma-de-brad"
+  - title: "Visions"
+    url: "/2023/visions"
+  - title: "Katie la corajuda"
+    url: "/2023/katia-la-corajuda"
+  - title: "It's for your own good"
+    url: "/2023/its-for-your-own-good"
+  - title: "Nonny and Vera"
+    url: "/2023/nonny-and-vera"
+- title: Reconnecting
+  url: "/reconnecting"
   side: left
   dropdown:
-  - title: "No soy tu musa"
-    url: "/2022/no-soy-tu-musa"
-  - title: "Endless repetition"
-    url: "/2022/endless-repetition"
-- title: Reimagining
-  url: "/reimagining"
+  - title: "An evening walk along Khaju Bridge in Isfahan"
+    url: "/2023/an-evening-walk-along-khaju-bridge-in-isfahan/"
+  - title: "Two Collages"
+    url: "/2023/two-collages"
+  - title: "Four Poems"
+    url: "/2023/four-poems"
+- title: Honoring
+  url: "/honoring"
   side: left
   dropdown:
-  - title: "The Forest"
-    url: "/2022/the-forest"
-  - title: "Mola"
-    url: "/2022/mola"
-  - title: "A Conversation Between Insomniacs"
-    url: "/2022/conversation-between-insomniacs"  
-  - title: "Psalm"
-    url: "/2022/psalm"
+  - title: "Sí se puede"
+    url: "/2023/si-se-puede"
+  - title: "Three Poems"
+    url: "/2023/three-poems"
+  - title: "A los cuys"
+    url: "/2023/a-los-cuys"  
+  - title: "Un camaleón en el panteón"
+    url: "/2023/un-camaleon-en-el-panteon"
+- title: Persevering
+  url: "/persevering"
+  side: left
+  dropdown:
+  - title: "Cruces de arcoíris"
+    url: "/2023/cruces-de-arcoiris"
+  - title: "The Intern"
+    url: "/2023/the-intern"
+  - title: "Triolet to Mother [Earth]"
+    url: "/2023/triolet-to-mother-earth"  
+  - title: "The Poet Tells the Truth"
+    url: "/2023/the-poet-tells-the-truth"
 - title: About
   url: "/about"
   side: left
