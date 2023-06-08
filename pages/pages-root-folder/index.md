@@ -8,7 +8,7 @@ layout: page-fullwidth
 title: "Ingenio"
 subheadline: "Sensing Life, Reimagining Language"
 header:
-  image_fullwidth: ingenio_header2.jpg
+  image_fullwidth: ingenio_header.jpg
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
