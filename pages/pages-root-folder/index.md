@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 title: "Ingenio"
-subheadline: "Sensing Life, Reimagining Language"
+subheadline: "Interrogating Life, Exploring Language"
 header:
   image_fullwidth: ingenio_header.jpg
 permalink: /index.html
