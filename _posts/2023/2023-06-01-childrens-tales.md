@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: 2023/el-fantasma-de-brad
+permalink: 2023/childrens-tales
 sidebar: left
 header:
   image_fullwidth: ingenio_header.jpg
